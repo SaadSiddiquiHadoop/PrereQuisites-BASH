@@ -1,0 +1,2 @@
+# PrereQuisites-BASH
+REHL only
